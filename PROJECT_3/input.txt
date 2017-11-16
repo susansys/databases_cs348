@@ -1,0 +1,9 @@
+LOGIN admin pass
+INSERT INTO Schools VALUES('7','school 3','address 3') ENCRYPT 2 ROLESCHOOL
+SELECT * FROM Schools
+LOGIN aakash subbu
+INSERT INTO Schools VALUES('10','school 3','address 3') ENCRYPT 2 ROLECOMPANY
+SELECT * FROM Schools
+LOGIN admin pass
+INSERT INTO Schools VALUES('9','school 3','address 3') ENCRYPT 2 ROLESCHOOL
+SELECT * FROM Schools
